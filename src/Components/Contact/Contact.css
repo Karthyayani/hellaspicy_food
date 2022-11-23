@@ -1,0 +1,25 @@
+#contact
+{
+    text-shadow: 10px;
+    font-weight :20px;
+    font-style: italic;
+    font-size: 80px;
+    position: relative;
+    top: 100px;
+    height: 350px;
+    margin-left: 420px;
+}
+#h3
+{
+   
+   position: relative;
+   top: 130px;
+   right: 330px;
+}
+.h6
+{
+    margin-left: 200px;
+}
+.map{
+    margin-left: 40;
+}

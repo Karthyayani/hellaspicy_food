@@ -1,0 +1,11 @@
+.pic1
+{
+    width: 410px;
+}
+.pic2{
+    width: 410px;
+    height: 280px;
+}
+@media screen(max-width:800px) {
+    
+}

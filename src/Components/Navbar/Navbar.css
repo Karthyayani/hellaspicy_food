@@ -1,0 +1,30 @@
+.img{
+height: 120px;
+width: 500px;
+}
+.nav
+{
+    background-color: red;
+   height: 120px;
+     width:100%;
+    }
+.link
+{
+    text-decoration: none;
+    color:black;
+    margin-left: 100px;
+}
+.link2
+{
+    text-decoration: none;
+    color:black;
+    margin-right: 20px;
+}
+.Contact
+{
+    text-decoration: none;
+    color:black;
+    margin-left: 200px;  
+}
+
+
